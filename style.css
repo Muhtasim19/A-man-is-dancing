@@ -7,7 +7,7 @@ body {
   @keyframes party-time {
     0%   { background-color: #F9C80E; }
     25%   {  background-color: #F86624;  }
-    50%   {  background-color: #EA3546;  }
+    30%   {  background-color: #EA3546;  }
     75%   {  background-color: #662E9B;  }
     100% {  background-color: #43BCCD;  }
   }
